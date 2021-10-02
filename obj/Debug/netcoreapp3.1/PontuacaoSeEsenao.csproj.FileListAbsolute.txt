@@ -1,0 +1,14 @@
+C:\projetos_ams\1ano\estruturaIfeLse\PontuacaoSeEsenao\obj\Debug\netcoreapp3.1\PontuacaoSeEsenao.AssemblyInfoInputs.cache
+C:\projetos_ams\1ano\estruturaIfeLse\PontuacaoSeEsenao\obj\Debug\netcoreapp3.1\PontuacaoSeEsenao.AssemblyInfo.cs
+C:\projetos_ams\1ano\estruturaIfeLse\PontuacaoSeEsenao\obj\Debug\netcoreapp3.1\PontuacaoSeEsenao.csproj.CoreCompileInputs.cache
+C:\projetos_ams\1ano\estruturaIfeLse\PontuacaoSeEsenao\bin\Debug\netcoreapp3.1\PontuacaoSeEsenao.exe
+C:\projetos_ams\1ano\estruturaIfeLse\PontuacaoSeEsenao\bin\Debug\netcoreapp3.1\PontuacaoSeEsenao.deps.json
+C:\projetos_ams\1ano\estruturaIfeLse\PontuacaoSeEsenao\bin\Debug\netcoreapp3.1\PontuacaoSeEsenao.runtimeconfig.json
+C:\projetos_ams\1ano\estruturaIfeLse\PontuacaoSeEsenao\bin\Debug\netcoreapp3.1\PontuacaoSeEsenao.runtimeconfig.dev.json
+C:\projetos_ams\1ano\estruturaIfeLse\PontuacaoSeEsenao\bin\Debug\netcoreapp3.1\PontuacaoSeEsenao.dll
+C:\projetos_ams\1ano\estruturaIfeLse\PontuacaoSeEsenao\bin\Debug\netcoreapp3.1\PontuacaoSeEsenao.pdb
+C:\projetos_ams\1ano\estruturaIfeLse\PontuacaoSeEsenao\obj\Debug\netcoreapp3.1\PontuacaoSeEsenao.dll
+C:\projetos_ams\1ano\estruturaIfeLse\PontuacaoSeEsenao\obj\Debug\netcoreapp3.1\PontuacaoSeEsenao.pdb
+C:\projetos_ams\1ano\estruturaIfeLse\PontuacaoSeEsenao\obj\Debug\netcoreapp3.1\PontuacaoSeEsenao.genruntimeconfig.cache
+C:\projetos_ams\1ano\estruturaIfelse\PontuacaoSeEsenao\obj\Debug\netcoreapp3.1\PontuacaoSeEsenao.csproj.AssemblyReference.cache
+C:\projetos_ams\1ano\estruturaIfelse\PontuacaoSeEsenao\obj\Debug\netcoreapp3.1\PontuacaoSeEsenao.GeneratedMSBuildEditorConfig.editorconfig

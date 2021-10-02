@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qw+ftoA16O5L+rrALCI+fof5dtDDiMtb6+0bOLKGK6Eu+8ObV/fCTg+Al0TSxSan3UrK9FRkh62ngcZFEN9kZw==",
+  "success": true,
+  "projectFilePath": "C:\\projetos_ams\\1ano\\estruturaIfelse\\PontuacaoSeEsenao\\PontuacaoSeEsenao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Karina\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
