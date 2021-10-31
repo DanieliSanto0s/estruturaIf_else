@@ -9,6 +9,8 @@ namespace PontuacaoSeEsenao
           string mes;
           Console.WriteLine("Digite um mês:");
           mes = Console.ReadLine();
+            
+            Console.WriteLine("");//Espaço
 
           if (mes == "janeiro")
           {
