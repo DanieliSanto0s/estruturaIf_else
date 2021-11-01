@@ -54,7 +54,9 @@ namespace PontuacaoSeEsenao
 
            else
           {
+            Console.WriteLine("--------------------");
             Console.WriteLine("Esse mês tem 30 dias");
+            Console.WriteLine("--------------------");
           }
         }
     }
